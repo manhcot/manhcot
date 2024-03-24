@@ -3,7 +3,7 @@
 <img src="https://readme-typing-svg.herokuapp.com?color=%23F70B10&size=27&lines=K3rnel+Dev;+Cyber+Security;Pentesting;Web-Development😉">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manchot&label=Profile%20views&color=0e75b6&style=flat" alt="manhcot" /> </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=manhcot" alt="manhcot" /></a> </p>
-<img src="https://tryhackme-badges.s3.amazonaws.com/manhcot.png" alt="TryHackMe">
+
 - 🔭 I’m currently working on [Reverse Engineering]
 
 - 🌱 I’m currently learning **C++, C#, Ruby, Python, .Bat Reverse Engineering**
