@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **IDA, Dnspy, C++ or C#**
 
-- 📫 How to reach me ** join to my discord server: [https://discord.gg/HY3HvHtDMs](https://discord.gg/BT3uu8Ppvc)**
+- 📫 How to reach me ** join to my discord server: [https://discord.gg/HY3HvHtDMs](https://discord.gg/BT3uu8Ppvc)
 
 
 </div>
