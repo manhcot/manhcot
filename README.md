@@ -8,7 +8,6 @@
 
 - 🌱 I’m currently learning **C++, C#, Ruby, Python Reverse Engineering**
 
-- 👯 I’m looking to collaborate on **Obfuscator and Deobfuscator**
 
 
 - 💬 Ask me about **IDA, Dnspy, C++ or C#**
