@@ -6,15 +6,14 @@
 
 - 🔭 I’m currently working on [Reverse Engineering]
 
-- 🌱 I’m currently learning **C++, C#, Ruby, Python, .Bat Reverse Engineering**
+- 🌱 I’m currently learning **C++, C#, Ruby, Python Reverse Engineering**
 
 - 👯 I’m looking to collaborate on **Obfuscator and Deobfuscator**
 
-- 📝 I regularly write articles on [Cracking and Offsets](Cracking and Offsets)
 
-- 💬 Ask me about **IDA, Dnspay, C++ or C#**
+- 💬 Ask me about **IDA, Dnspy, C++ or C#**
 
-- 📫 How to reach me ** join to my discord server: https://discord.gg/HY3HvHtDMs**
+- 📫 How to reach me ** join to my discord server: [https://discord.gg/HY3HvHtDMs](https://discord.gg/BT3uu8Ppvc)**
 
 
 </div>
