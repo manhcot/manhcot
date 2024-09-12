@@ -23,10 +23,5 @@
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firefox/firefox-original.svg" alt="firefox" width="40" height="40"/>
 <img src="https://cdn.discordapp.com/attachments/1138247038736277534/1141067855480246402/bat.png" width="40" height="40"/>
-<img src="https://cdn.discordapp.com/attachments/1136781302734008420/1136781738538962994/Katana_gif.gif" width="300" height="300">
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=manhcot&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="manhcot" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=manhcot&show_icons=true&theme=tokyonight&locale=en" alt="manhcot" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=manhcot&theme=highcontrast" alt="manhcot" /></p>
