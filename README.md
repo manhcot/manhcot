@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm manhcot</h1>
-<h3 align="center">The human mind is not capable of conceiving the fourth dimension, so how can it conceive of God? For whom a thousand years and a thousand dimensions are only one. -Albert Einstein</h3>
-<img src="https://readme-typing-svg.herokuapp.com?color=%23F70B10&size=27&lines=K3rnel+Dev;+Cyber+Security;Pentesting;Web-Development😉">
+<img align="center" src="https://readme-typing-svg.herokuapp.com?color=%23F70B10&size=27&lines=K3rnel+Dev;+Cyber+Security;Pentesting;Web-Development😉">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manchot&label=Profile%20views&color=0e75b6&style=flat" alt="manhcot" /> </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=manhcot" alt="manhcot" /></a> </p>
 
