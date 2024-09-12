@@ -17,11 +17,7 @@
 </div>
 <h3 align="left">If you need contact me:</h3>
 <p align="left">
-<a href="https://discord.gg/HY3HvHtDMs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.io/manhcot" height="30" width="40" /></a>
+<a href="https://facebook.com/13thall" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.io/manhcot" height="30" width="40" /></a>
 </p>
 </div>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firefox/firefox-original.svg" alt="firefox" width="40" height="40"/>
-<img src="https://cdn.discordapp.com/attachments/1138247038736277534/1141067855480246402/bat.png" width="40" height="40"/>
-
 
