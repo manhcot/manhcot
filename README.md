@@ -20,12 +20,7 @@
 <a href="https://discord.gg/HY3HvHtDMs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.io/manhcot" height="30" width="40" /></a>
 </p>
 </div>
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" alt="visualstudio" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" alt="dotnetcore" width="40" height="40"/>
+
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firefox/firefox-original.svg" alt="firefox" width="40" height="40"/>
 <img src="https://cdn.discordapp.com/attachments/1138247038736277534/1141067855480246402/bat.png" width="40" height="40"/>
 <img src="https://cdn.discordapp.com/attachments/1136781302734008420/1136781738538962994/Katana_gif.gif" width="300" height="300">
