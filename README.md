@@ -9,9 +9,9 @@
 
 
 
-- 💬 Ask me about **IDA, Dnspy, C++ or C#**
 
-- 📫 join to my discord server: [https://discord.gg/HY3HvHtDMs](https://discord.gg/BT3uu8Ppvc)
+
+- 📫 join to my discord server: [https://discord.gg/39Gb3BXt9q](https://discord.gg/39Gb3BXt9q)
 
 
 </div>
