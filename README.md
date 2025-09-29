@@ -11,7 +11,7 @@
 
 
 
-- 📫 join to my discord server: [https://discord.gg/39Gb3BXt9q](https://discord.gg/39Gb3BXt9q)
+- 📫 join to my discord server: https://discord.gg/djpD9UcJ9s
 
 
 </div>
