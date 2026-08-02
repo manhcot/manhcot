@@ -3,7 +3,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manchot&label=Profile%20views&color=0e75b6&style=flat" alt="manhcot" /> </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=manhcot" alt="manhcot" /></a> </p>
 
-- 🔭 I’m currently working on [Reverse Engineering]
 
 - 🌱 I’m currently learning **C++, C#, Ruby, Python Reverse Engineering**
 
@@ -11,7 +10,6 @@
 
 
 
-- 📫 join to my discord server: https://discord.gg/djpD9UcJ9s
 
 
 </div>
